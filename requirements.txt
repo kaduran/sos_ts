@@ -1,0 +1,11 @@
+matplotlib==3.6.2
+python-dotenv==0.21.0
+slack_sdk==3.19.4
+uvicorn==0.20.0
+fastapi 
+requests
+pydantic
+APScheduler==3.10.1
+mysql_connector_repackaged==0.3.1
+nltk==3.8.1
+rake_nltk==1.0.6
